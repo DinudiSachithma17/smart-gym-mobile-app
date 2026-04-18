@@ -1,1 +1,1 @@
-This folder contains complaint and feedback management screens.
+This folder contains complaint management screens.
